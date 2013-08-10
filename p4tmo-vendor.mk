@@ -18,5 +18,3 @@
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/p4tmo/overlay
 
 $(call inherit-product, vendor/samsung/p4tmo/p4tmo-vendor-blobs.mk)
-$(call inherit-product, vendor/gappstablet/gapps-vendor.mk)
-
